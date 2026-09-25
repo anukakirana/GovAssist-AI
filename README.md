@@ -38,10 +38,3 @@ This project is a beginner-friendly FastAPI application for a Retrieval-Augmente
   3. pass context to Ollama,
   4. return the final answer
 
-## Next step
-
-The next stage is to add the actual logic for:
-- document ingestion,
-- vector embedding generation,
-- Qdrant indexing,
-- and the chat endpoint with real retrieval.
